@@ -26,14 +26,10 @@
 `git push --set-upstream origin <your_branch>`
 
 - **Step 4**: Go to upstream repo, create a Pull Request. You can either click on the "Compare & pull request" or go to "Pull requests" tab.
-<img src="https://i.ibb.co/xDkzLLw/create-pr.png">
+<img src="https://i.ibb.co/JxgMSvy/create-pr.png" alt="create-pr" border="0">
 
 - **Step 5**: Chose which branch to merge and add a reviewer to your PR. This person will provide feedback and merge your PR.
-<img src="https://i.ibb.co/cyYwXSd/pr-details.png" alt="pr-details" border="0">
-
-Highlighted in red should be our group repo, and the branch should be main.
-
-Highlighted in green should be your remote repo, and the branch should be <your_branch>
+<img src="https://i.ibb.co/PZwj800/pr-details.png" alt="pr-details" border="0">
 
 ## Update changes from upstream repo:
 <img src="https://i.ibb.co/02BKNBc/pull-flow.png" alt="pull-flow" border="0" width="650px">
